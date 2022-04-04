@@ -38,3 +38,6 @@ npm run dev
 ```sh
 npm run build
 ```
+### Branch Testing
+
+This section of text was made to test branhing in Git.
