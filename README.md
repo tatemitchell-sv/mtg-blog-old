@@ -40,4 +40,4 @@ npm run build
 ```
 ### Branch Testing
 
-This section of text was made to test branhing in Git.
+This section of text was made to test branching in Git.
