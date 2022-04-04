@@ -85,7 +85,9 @@
     },
     {
         "id": "sakashimathou",
-        "source": "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/9/69639b23-9975-4356-ab7d-0aa3387e02c7.jpg?1612404054"
+        "source": "https://c1.scryfall.com/file/scryfall-cards/normal/front/6/9/69639b23-9975-4356-ab7d-0aa3387e02c7.jpg?1612404054",
+        "color" : ["blue"],
+        "cname" : "Sakashima of a Thousand Faces"
     },
     {
         "id": "bogwitch",
